@@ -1,0 +1,54 @@
+*{
+   padding: 0%;
+   margin: 0%;
+}
+
+
+
+
+
+
+
+
+
+.abd{
+    background-color: rgb(46, 221, 46);
+   text-align: center;
+}
+
+.bc{
+   text-align: center;
+   background-color: rgb(46, 221, 46);
+}
+
+.a{
+   text-align: center;
+   padding: 25px 10px;
+   background-color: gray;
+}
+.c{
+   width: 178px;
+   height: 163px;
+}
+.p{
+   font-size: 51px;
+}
+.name{
+   width: 373px;
+   padding: 5px;
+   margin-top:25px;
+   font-size: 21px;
+   ba
+
+   
+}
+.btn{
+   width: 66px;
+   padding: 10px;
+   background-color: blue;
+   color: white;
+   margin-left: 14px;
+}
+.abdullah{
+   background-color: gray;
+}
